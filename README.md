@@ -1,11 +1,4 @@
 # Multi-Way Primitive Diophantine Coincidences for Biquadratic Triplets
-
-> [!NOTE]
-> **Paper Title:** Computational Investigation of Multi-Way Primitive Diophantine Coincidences for Biquadratic Triplets  
-> **Author:** Johar M. Ashfaque  
-> **Date:** July 3, 2026  
-> **Primary Discovery:** Isolation of an exceptional 4-way primitive Diophantine collision for the sum of three fourth powers sharing the minimal invariant sum *S* = 5,978,882.
-
 <hr>
 
 ## 1. The 1729 Connection: From Ramanujan to Biquadratic Hypersurfaces
