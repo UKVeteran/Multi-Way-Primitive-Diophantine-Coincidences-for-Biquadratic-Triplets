@@ -1,0 +1,1 @@
+# Multi-Way-Primitive-Diophantine-Coincidences-for-Biquadratic-Triplets
