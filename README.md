@@ -109,8 +109,4 @@ The explicit verification of the *S* = 5,978,882 quadruplet opens several critic
 
 <hr>
 
-## 7. Repository Structure & Usage
 
-* `src/`: Contains the C++/Rust implementations of the memory-efficient <i>O</i>(<i>N</i><sup>3</sup>) Meet-in-the-Middle search algorithms.
-* `data/`: Exported logs of verified primitive fibers and invariant sums.
-* `docs/`: Mathematical proofs, LaTeX sources of Ashfaque's research note, and geometric variety plots.
